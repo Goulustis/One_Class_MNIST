@@ -1,0 +1,54 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Virtual environments
+ss_venv
+
+# PyCharm files
+.idea
+CMakeLists.txt
+
+# PyPI remnants
+dist
+*.egg-info
+.tox
+.coverage
+build/
+tests/__pycache__/
+
+# dataset and model 
+*.gz
+*.pt
+*-ubyte
+*.pth
+*checkpoint*
