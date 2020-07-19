@@ -8,4 +8,4 @@ The objective to prepare the reference network is switched to a autoencoder. The
 
 Due to the amount of data available, the pretraining of the autoencoder did not improve on the performance on classification task. 
 
-Additionally, as opposed to reducing the variance of g, the variance of the last layer is reduced instead.
+Additionally, as opposed to reducing the variance of g, the variance of the last layer of the encoder is reduced instead.
