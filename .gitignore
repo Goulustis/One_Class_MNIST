@@ -52,3 +52,5 @@ tests/__pycache__/
 *-ubyte
 *.pth
 *checkpoint*
+*.png
+*.pyc
